@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-https://drive.google.com/file/d/1hVhLdDXd35SlbUbyOcWIY_JtfjLlHXJS/view?usp=sharing
+(https://drive.google.com/uc?export=view&id=1hVhLdDXd35SlbUbyOcWIY_JtfjLlHXJS)
 
 GIF created with ...  
 [Kap](https://getkap.co/) for macOS
