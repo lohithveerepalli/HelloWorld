@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme that inherits from Theme.AppCompat -->
+    <style name="Theme.HelloWorld" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!-- If you want to use the DarkActionBar variant you can change to Theme.AppCompat.Light.DarkActionBar -->
+    </style>
+
+    <!-- Other styles and themes can be defined here if necessary -->
+
+</resources>

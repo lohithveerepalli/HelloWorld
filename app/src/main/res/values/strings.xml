@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="hello_world_my_name_is_lohith_i_love_android_development_and_big_cats">Hello world! My name is Lohith. I love Android development and big cats.</string>
+    <string name="say_hello">SAY HELLO!</string>
+    <string name="hello_world_my_name_is_Lohith_i_love_android_development_and_big_cats">Hello world! My name is Lohith. I love Android development and big cats.</string>
+</resources>
